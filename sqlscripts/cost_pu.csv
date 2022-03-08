@@ -1,0 +1,325 @@
+product_id,﻿product_name,manu_country,delivery_cost,manu_cost,instock_cost,ssd_cost,online_cost,campain_cost,close_out_cost,booking_cost,others
+fw1001,Nike Metcon 6 AMP,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1002,Nike SuperRep Go 2,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1003,Nike Savaleos,CHINA,0,$75 ,0,0,0,0,0,0,0
+fw1004,Training Shoe Finder,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1005,Nike Romaleos 4,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1006,Nike React Metcon Turbo,CHINA,0,$135 ,0,0,0,0,0,0,0
+fw1007,Nike Metcon 6 AMP,CHINA,0,$110 ,0,0,0,0,0,0,0
+fw1008,Nike Legend Essential 2,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1009,Nike Air Zoom SuperRep 2 Men's HIIT Class Shoe,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1010,Nike Metcon 6,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1011,Nike SuperRep Cycle,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1012,Nike ZoomX SuperRep Surge,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1013,Nike Metcon 6 By You,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1014,Nike Free Metcon 4,CHINA,0,$110 ,0,0,0,0,0,0,0
+fw1015,Nike Metcon 6 Premium,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1016,Nike MC Trainer,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1017,Nike Metcon 6,CHINA,0,$50 ,0,0,0,0,0,0,0
+fw1018,Nike SpeedRep,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1019,Nike Air Max Alpha Trainer 4,CHINA,0,$65 ,0,0,0,0,0,0,0
+fw1020,Nike Air Zoom SuperRep 2 Premium,CHINA,0,$65 ,0,0,0,0,0,0,0
+fw1021,Nike Metcon 6 By You,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1022,Nike ZoomX SuperRep Surge,CHINA,0,$110 ,0,0,0,0,0,0,0
+fw1023,Nike SuperRep Go 2,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1024,Nike Free Metcon 4,CHINA,0,$75 ,0,0,0,0,0,0,0
+fw1025,Nike Air Zoom SuperRep 2,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1026,Nike Metcon 6,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1027,Nike Air Monarch IV,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1028,Nike Air Monarch IV,CHINA,0,$40 ,0,0,0,0,0,0,0
+fw1029,Nike SB Zoom Blazer Mid Premium Skate Shoe,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1030,Nike SB BLZR Court,CHINA,0,$85 ,0,0,0,0,0,0,0
+fw1031,Nike SB Zoom Blazer Low Pro GT,CHINA,0,$50 ,0,0,0,0,0,0,0
+fw1032,Nike SB Air Zoom Janoski RM By You,CHINA,0,$60 ,0,0,0,0,0,0,0
+fw1033,Nike SB Zoom Blazer Mid Edge,CHINA,0,$80 ,0,0,0,0,0,0,0
+fw1034,Nike SB Zoom Stefan Janoski RM,CHINA,0,$75 ,0,0,0,0,0,0,0
+fw1035,Nike SB Charge Canvas,CHINA,0,$65 ,0,0,0,0,0,0,0
+fw1036,Nike SB Air Zoom Janoski RM By You Custom Skate Shoe,CHINA,0,$80 ,0,0,0,0,0,0,0
+fw1037,Nike SB Chron Solarsoft,CHINA,0,$80 ,0,0,0,0,0,0,0
+fw1038,Nike SB Dunk Low Pro,CHINA,0,$53 ,0,0,0,0,0,0,0
+fw1039,Nike SB BLZR Court DVDL,CHINA,0,$110 ,0,0,0,0,0,0,0
+fw1040,Nike SB Zoom Blazer Mid,CHINA,0,$60 ,0,0,0,0,0,0,0
+fw1041,Nike SB Zoom Stefan Janoski FL RM,CHINA,0,$60 ,0,0,0,0,0,0,0
+fw1042,Nike SB Shane,CHINA,0,$70 ,0,0,0,0,0,0,0
+fw1043,Nike SB Zoom Verona Slip,CHINA,0,$58 ,0,0,0,0,0,0,0
+fw1044,Nike SB Heritage Vulc,CHINA,0,$60 ,0,0,0,0,0,0,0
+fw1045,Nike SB Bruin React,CHINA,0,$55 ,0,0,0,0,0,0,0
+fw1046,Nike Sportswear,CHINA,0,$47 ,0,0,0,0,0,0,0
+fw1047,Nike Air Zoom Pegasus 38 FlyEase,CHINA,0,$90 ,0,0,0,0,0,0,0
+fw1048,Nike Pegasus Trail 3,CHINA,0,$90 ,0,0,0,0,0,0,0
+fw1049,Nike Air Zoom Terra Kiger 7,CHINA,0,$95 ,0,0,0,0,0,0,0
+fw1050,Nike Wildhorse 7,CHINA,0,$100 ,0,0,0,0,0,0,0
+fw1051,Nike ZoomX Vaporfly Next% 2,CHINA,0,$85 ,0,0,0,0,0,0,0
+acc1001,Nike Air Zoom Alphafly NEXT%,CHINA,0,$155 ,0,0,0,0,0,0,0
+acc1002,Nike ZoomX Invincible Run Flyknit,CHINA,0,$185 ,0,0,0,0,0,0,0
+acc1003,Nike React Infinity Run Flyknit 2,CHINA,0,$125 ,0,0,0,0,0,0,0
+acc1004,Nike Revolution 5 PRM,CHINA,0,$120 ,0,0,0,0,0,0,0
+acc1005,Nike Air Zoom Vomero 15,CHINA,0,$55 ,0,0,0,0,0,0,0
+acc1006,Nike ZoomX Vaporfly NEXT%,CHINA,0,$115 ,0,0,0,0,0,0,0
+acc1007,Nike Revolution 5,CHINA,0,$160 ,0,0,0,0,0,0,0
+acc1008,Nike ZoomX Vaporfly NEXT%,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1009,Nike Downshifter 10,CHINA,0,$160 ,0,0,0,0,0,0,0
+acc1010,Nike Downshifter 11,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1011,Nike React Infinity Run Flyknit 2,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1012,Nike Flex Experience Run 10,CHINA,0,$115 ,0,0,0,0,0,0,0
+acc1013,Nike React Infinity Run Flyknit,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1014,Nike Renew Run 2,CHINA,0,$115 ,0,0,0,0,0,0,0
+acc1015,Nike React Escape Run,CHINA,0,$65 ,0,0,0,0,0,0,0
+acc1016,Nike React Miler 2 By You,CHINA,0,$75 ,0,0,0,0,0,0,0
+acc1017,Nike React Miler 2,CHINA,0,$110 ,0,0,0,0,0,0,0
+acc1018,Nike Air Zoom Pegasus 38 By You,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1019,Nike Revolution 5,CHINA,0,$100 ,0,0,0,0,0,0,0
+acc1020,Nike React Infinity Run Flyknit 2 By You,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1021,Nike React Escape Run,CHINA,0,$125 ,0,0,0,0,0,0,0
+acc1022,Nike Quest 3,CHINA,0,$75 ,0,0,0,0,0,0,0
+acc1023,Nike Pegasus Trail 2,CHINA,0,$55 ,0,0,0,0,0,0,0
+acc1024,Nike Zoom Rival S 9,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1025,Nike Air Zoom Pegasus 37,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1026,Nike Air Zoom Tempo NEXT%,CHINA,0,$90 ,0,0,0,0,0,0,0
+acc1027,Nike Renew Run,CHINA,0,$135 ,0,0,0,0,0,0,0
+acc1028,Nike Downshifter 9,CHINA,0,$60 ,0,0,0,0,0,0,0
+acc1029,Nike Internationalist By You,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1030,Nike Air Zoom Alphafly NEXT% Eliud,CHINA,0,$85 ,0,0,0,0,0,0,0
+acc1031,Nike Downshifter 10,CHINA,0,$185 ,0,0,0,0,0,0,0
+acc1032,Nike Revolution 4,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1033,Nike Air Zoom Tempo NEXT% FlyEase,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1034,Nike Zoom Rival D 10,CHINA,0,$135 ,0,0,0,0,0,0,0
+acc1035,Nike Quest 3 Premium,CHINA,0,$50 ,0,0,0,0,0,0,0
+acc1036,Nike Juniper Trail,CHINA,0,$60 ,0,0,0,0,0,0,0
+acc1037,Nike Air Zoom Structure 23,CHINA,0,$60 ,0,0,0,0,0,0,0
+acc1038,Nike React Miler,CHINA,0,$100 ,0,0,0,0,0,0,0
+acc1039,Nike Flex RN 2018,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1040,Nike Sportswear,CHINA,0,$42 ,0,0,0,0,0,0,0
+acc1041,Nike React Miler Shield,CHINA,0,$36 ,0,0,0,0,0,0,0
+acc1042,Nike Sportswear,CHINA,0,$74 ,0,0,0,0,0,0,0
+acc1043,Nike One,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1044,Nike Sportswear,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1045,Nike Dri-FIT One,CHINA,0,$39 ,0,0,0,0,0,0,0
+acc1046,Gear to Boost Your Routine,CHINA,0,$40 ,0,0,0,0,0,0,0
+acc1047,Nike Sportswear,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1048,Nike One,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1049,Nike Sportswear,CHINA,0,$42 ,0,0,0,0,0,0,0
+acc1050,Nike Dri-FIT One,CHINA,0,$36 ,0,0,0,0,0,0,0
+acc1051,Gear to Boost Your Routine,CHINA,0,$74 ,0,0,0,0,0,0,0
+acc1052,Nike One Icon Clash,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1053,Nike Swoosh Run,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1054,Nike Air Epic Fast,CHINA,0,$39 ,0,0,0,0,0,0,0
+acc1055,Nike Air,CHINA,0,$40 ,0,0,0,0,0,0,0
+acc1056,Nike Pro,CHINA,0,$95 ,0,0,0,0,0,0,0
+acc1057,Nike Pro 365,CHINA,0,$42 ,0,0,0,0,0,0,0
+acc1058,Paris Saint-Germain Strike,CHINA,0,$36 ,0,0,0,0,0,0,0
+acc1059,Paris Saint-Germain Strike,CHINA,0,$74 ,0,0,0,0,0,0,0
+acc1060,Paris Saint-Germain 2021/22 Stadium Home,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1061,Paris Saint-Germain Strike,CHINA,0,$77 ,0,0,0,0,0,0,0
+acc1062,Paris Saint-Germain Strike,CHINA,0,$39 ,0,0,0,0,0,0,0
+acc1063,Chelsea F.C.,CHINA,0,$40 ,0,0,0,0,0,0,0
+acc1064,Liverpool F.C. 2021/22 Stadium Home,CHINA,0,$63 ,0,0,0,0,0,0,0
+acc1065,Liverpool F.C. 2021/22 Stadium Home Women's Football Shirt,CHINA,0,$63 ,0,0,0,0,0,0,0
+acc1066,NOCTA Cardinal Stock,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1001,Nike x MMW Bodysuit,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1002,Nike x MMW,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1003,Nike x MMW,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1004,Nike One Femme,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1005,Nike Femme Elastika,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1006,Nike Sportswear Femme,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1007,Nike Sportswear Femme,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1008,Nike Sportswear Femme,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1009,Nike Sportswear Femme,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1010,Nike Sportswear Femme,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1011,Nike Sportswear,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1012,Nike Sportswear Femme,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1013,NikeCourt Dri-FIT ADV Slam,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1014,NikeCourt Dri-FIT,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1015,NikeCourt Dri-FIT ADV Slam,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1016,Nike Pro,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1017,NikeCourt Dri-FIT ADV Slam,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1018,NikeCourt Multiplier Max,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1019,Nike Pro,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1020,Paris Saint-Germain,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1021,Paris Saint-Germain,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1022,Paris Saint-Germain,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1023,Paris Saint-Germain,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1024,Paris Saint-Germain,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1025,Paris Saint-Germain Home,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1026,Paris Saint-Germain 2021/22 Stadium Home,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1027,Paris Saint-Germain 2021/22 Match Home,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1028,Paris Saint-Germain,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1029,Chelsea F.C. 2021/22 Stadium Home,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1030,Chelsea F.C. 2021/22 Stadium Home,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1031,Nike Sportswear,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1032,Nike F.C. Germany,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1033,Nike F.C. Germany,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1034,Nike F.C. Away Germany,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1035,Nike Sportswear,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1036,Nike F.C. SNEAKR Sox Germany,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1037,Naomi Osaka,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1038,NikeLab,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1039,NikeCourt Victory,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1040,Nike Yoga,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1041,NikeLab,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1042,NikeLab,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1043,Paris Saint-Germain Strike Elite Home,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1044,NikeCourt Victory,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1045,NikeCourt Victory,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1046,Liverpool F.C.,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1047,Liverpool F.C.,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1048,Nike Sportswear,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1049,Nike Air,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1050,Jordan Essentials,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1051,Nike Everyday Lightweight,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1052,Nike Sportswear Icon Clash,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1053,NikeCourt Victory,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1054,Nike Yoga Pointelle,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1055,Nike Run Division,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1056,Korea 2020 Stadium Away,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1057,NikeCourt Victory,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1058,NikeCourt Victory,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1059,Nike Dri-FIT Victory,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1060,Nike Tempo Luxe Run Division,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1061,Nike Sportswear,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1062,Nike Dri-FIT Swoosh Icon Clash,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1063,Nike Sportswear Tech Fleece,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1064,Nike Breathe Cool,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1065,Nike Sportswear Icon Clash,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1066,Nike Sportswear,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1067,Nigeria 2020 Stadium Away,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1068,Nike Breathe Cool,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1069,Nike Breathe Cool,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1070,Jordan Flight,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1071,Nike Breathe Cool,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1072,Nike Breathe Cool,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1073,Nike Pro,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1074,Nike Sportswear Essential,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1075,Nike Academy,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1076,Nike Squad,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1077,Croatia 2020 Stadium Away,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1078,Nike Breathe Cool,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1079,Nike Everyday Lightweight,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1080,Nike Essential,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1081,Nike Sportswear Swoosh,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1082,Nike Epic Fast,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1083,Nike Sportswear,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1084,Nike Swoosh Fly,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1085,Nike Sportswear,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1086,Nike One Luxe,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1087,Nike Breathe Cool,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1088,NikeCourt,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1089,Nike Dri-FIT Get Fit,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1090,Nike Everyday Cushioned,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1091,Nike Sportswear Essential,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1092,Nike Sportswear,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1093,Nike Air,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1094,Nike Air,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1095,Nike Fast,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1096,Nike Sportswear Tech Pack,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1097,Nike Breathe Cool,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1098,Nike Breathe Cool,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1099,Nike Miler,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1100,Nike Epic Fast Femme,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1101,NikeCourt Advantage,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1102,Nike,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1103,Nike Sportswear Femme,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1104,Nike Racing,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1105,Nike Victory Icon Clash,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1106,Inter Milan 2020/21 Stadium Home,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1107,Nike Dri-FIT Indy,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1108,Nike Everyday Cushioned,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1109,Nike Icon Clash,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1110,NikeCourt Dri-FIT,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1111,Nike Sportswear,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1112,Miami Heat City Edition,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1113,Nike Sportswear DNA,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1114,Nike Flex Victory,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1115,Nike Fly Crossover,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1116,Nike Club Skirt,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1117,Nike One,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1118,Nike Swoosh Run,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1119,Nike Dri-FIT UV Victory,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1120,Nike Sportswear Heritage,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1121,Nike Sportswear Heritage,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1122,Nike Air,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1123,Nike Spark Lightweight,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1124,Nike Sportswear Leg-A-See,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1125,F.C. Barcelona 2020/21 Stadium Third,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1126,Nike Sportswear Essential,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1127,Nike Sportswear Trend,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1128,Nike Pro,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1129,Nike Sportswear Gym Vintage,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1130,Nike Pro,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1131,Nike ESC,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1132,Nike Sportswear Heritage,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1133,Nike Sportswear Heritage,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1134,Paris Saint-Germain,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1135,Nike Everyday Lightweight,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1136,Nike F.C. Dri-FIT,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1137,Nike Sportswear Essential,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1138,Nike Strike Winter Warrior,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1139,Nike Yoga Dri-FIT Indy,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1140,Nike Dri-FIT Academy,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1141,Poland 2020 Stadium Home,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1142,Nike Air,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1143,Nike ESC,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1144,Nike Dri-FIT Academy,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1145,Nike Dri-FIT Academy,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1146,Jordan Essentials,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1147,Nike Heritage,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1148,Nike Everyday Plus Lightweight,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1149,Nike Squad,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1150,Nike Dri-FIT Academy,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1151,Nike Dri-FIT Academy,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1152,Nike Sportswear Femme,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1153,Nike ESC,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1154,Nike Dri-FIT Academy,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1155,Nike Dri-FIT Academy,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1156,NikeCourt Victory,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1157,Nike Dri-FIT UV Victory,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1158,Nike Sportswear,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1159,Nike Sportswear,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1160,Nike Sportswear Tech Pack,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1161,Nike Sportswear Tech Pack,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1162,England 2020 Stadium Away,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1163,England 2020 Stadium Away,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1164,Nike Favourites,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1165,Nike Sportswear Essential,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1166,Atl茅tico de Madrid 2020/21 Stadium Away,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1167,Nike Sportswear Windrunner,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1168,Nike Sportswear Windrunner,CHINA,0,$63 ,0,0,0,0,0,0,0
+app1169,Nike Sportswear,CHINA,0,$145 ,0,0,0,0,0,0,0
+app1170,Nike Sportswear,CHINA,0,$130 ,0,0,0,0,0,0,0
+app1171,Nike One,CHINA,0,$80 ,0,0,0,0,0,0,0
+app1172,Nike Air,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1173,Nike Yoga,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1174,NikeCourt Dri-FIT Victory,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1175,Nike Sportswear,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1176,Portugal 2020 Stadium Away,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1177,Nike Sportswear,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1178,NikeCourt Victory,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1179,Nike ESC,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1180,Nike ESC,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1181,Nike ESC,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1182,Nike Dri-FIT Indy,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1183,Nike Sportswear Essential Collection,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1184,Nike ESC,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1185,Nike Pro,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1186,Nike Pro,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1187,Nike Standard Issue Swoosh Fly,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1188,Nike Sportswear Tech Pack,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1189,Nike Sportswear Swoosh,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1190,Nike Sportswear Swoosh,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1191,Nike Breathe,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1192,NikeCourt Multiplier Cushioned,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1193,NikeCourt Advantage,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1194,Nike AeroSwift,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1195,Nike Everyday Lightweight,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1196,Nike Yoga,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1197,Nike Sportswear,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1198,Nike Sportswear Swoosh,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1199,Nike One,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1200,Extended Sizes,CHINA,0,$58 ,0,0,0,0,0,0,0
+app1201,Nike Sportswear,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1202,Nike Yoga Luxe,CHINA,0,$85 ,0,0,0,0,0,0,0
+app1203,Nike Sportswear Essential,CHINA,0,$83 ,0,0,0,0,0,0,0
+app1204,Nike Sportswear Icon Clash,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1205,Nike Sportswear Icon Clash,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1206,Nike Sportswear Icon Clash,CHINA,0,$53 ,0,0,0,0,0,0,0
+app1207,Nike Sportswear Tech Fleece,CHINA,0,$53 ,0,0,0,0,0,0,0
